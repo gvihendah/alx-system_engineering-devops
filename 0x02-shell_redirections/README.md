@@ -1,1 +1,1 @@
-my solutions to shell redirections scripts
+Shell I/O redirections
